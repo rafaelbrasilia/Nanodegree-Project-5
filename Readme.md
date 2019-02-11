@@ -11,7 +11,7 @@ This is Project 5, Crypto Star DAPP on Eherun. In this project I created a DAPP 
 5. Token Address on Rinkeby: 0x0bb1eba3db503D04F1f04b1D9874b7c0A7E3752f
 
 
-## What do I learned with this Project
+## What I learned with this Project
 
 * I was able to understand how fungible and non fungible tokens work on Ethereum.
 * I learned how to use truffle and how to take advantage of the boilerplate code provided in the available truffle boxes.
